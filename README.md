@@ -21,14 +21,13 @@
 ## Our Site Map 
 ***
 
-
-![Site map chat](./sitemap.svg)
+![Site map chart](./sitemap.svg)
 
 
 ***
 ## Flowchart 
-
 ***
 
 ![Site model digram](./flowchart.svg)
 
+view the algorithm of the entire website <a href="/sitemap.html">here </a> 
