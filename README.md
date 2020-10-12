@@ -21,7 +21,7 @@
 ## Our Site Map 
 ***
 
-[View the proposed site map here](./sitemap.html)
+[View the proposed site map here](/sitemap.html)
 
 ***
 ## Flowchart 
