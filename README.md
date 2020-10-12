@@ -22,7 +22,7 @@
 ***
 
 
-View the proposed <a target="_blank" href="/sitemap.html"> site map </a> 
+View the proposed <a target="_blank" href="sitemap.html"> site map </a> 
 
 ***
 ## Flowchart 
