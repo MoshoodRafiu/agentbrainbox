@@ -21,11 +21,14 @@
 ## Our Site Map 
 ***
 
-[View the proposed site map here](./sitemap.html)
+
+![Site map chat](./sitemap.svg)
+
 
 ***
 ## Flowchart 
 
 ***
-[view the algorithm of the entire website ](./sitemap.html)
+
+![Site model digram](./flowchart.svg)
 
